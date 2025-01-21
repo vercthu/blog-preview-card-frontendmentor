@@ -46,6 +46,7 @@ a:hover {
     max-width: 100%;
     border-radius: 10px;
     margin-bottom: 12px;
+    vertical-align: middle;
 }
 
 .label {
